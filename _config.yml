@@ -1,0 +1,10 @@
+name: "Seans Blog"
+description: "My personal blog to document my life in Belize, and a place to record tasks that i encounter frequently on a daily basis."
+
+url: "http://0.0.0.0:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
